@@ -21,35 +21,35 @@
 ### 1. Join the Room — Dashboard
 > Enter your first name, last name, and an optional Room ID to join a specific private room. No account or password needed.
 
-![Join Dashboard](join dashboard.png)
+![Join Dashboard](YOUR_PATH_TO/join_dashboard.png)
 
 ---
 
-### 2. Private Group Chat (Desktop)
-> Two users chatting in a private room (Room ID: `111`). The sidebar shows online members with real-time presence indicators.
+### 2. Private 1v1 Chat (Desktop)
+> Two users chatting in a private room. The sidebar shows online members with real-time presence indicators.
 
-![1v1 Private Chat](Chatting_1_v_1_in_privately.png)
+![1v1 Private Chat](YOUR_PATH_TO/Chatting_1_v_1_in_privately.png)
 
 ---
 
 ### 3. Multi-User Private Room (Desktop)
-> Four users sharing the same Room ID (`123`) — the room acts as a private group chat. Room codes can also be shared publicly to let anyone join.
+> Multiple users sharing the same Room ID — the room acts as a private group chat. The Room ID can also be shared publicly to let anyone join.
 
-![Multiple Users in Private Room](Multiple_people_chatting_in_a_private_room_and_also_the_room_can_be_used_as_public_by_sharing_room_code_.png)
+![Multiple Users in Private Room](YOUR_PATH_TO/Multiple_people_chatting_in_a_private_room_and_also_the_room_can_be_used_as_public_by_sharing_room_code_.png)
 
 ---
 
 ### 4. Chat on iPad
-> The full desktop layout adapts perfectly to tablet screens, showing the sidebar with the online user list alongside the chat window.
+> The full desktop layout adapts perfectly to tablet screens, showing the sidebar alongside the chat window.
 
-![iPad View](Chatting_using_Ipad.png)
+![iPad View](YOUR_PATH_TO/Chatting_using_Ipad.png)
 
 ---
 
 ### 5. Chat on Android
-> On mobile, the layout shifts to a streamlined single-column view for a comfortable thumb-friendly experience.
+> On mobile, the layout shifts to a streamlined single-column view for a comfortable experience.
 
-![Android View](Chatting_using_android_phone.png)
+![Android View](YOUR_PATH_TO/Chatting_using_android_phone.png)
 
 ---
 
@@ -68,12 +68,10 @@
 
 ### Prerequisites
 
-Make sure you have the following installed on your system:
-
 - [Node.js](https://nodejs.org/) (v14 or higher recommended)
 - npm (comes bundled with Node.js)
 
-You can verify your installations by running:
+Verify your installations:
 
 ```bash
 node -v
@@ -114,15 +112,17 @@ node index.js
 http://localhost:3000
 ```
 
-> The app will be running on port `3000` by default. Open the URL in any modern browser to start chatting!
+> The app runs on port `3000` by default. Open the URL in any modern browser to start chatting!
 
 ---
 
 ## 🔒 How Room Privacy Works
 
-- **No Room ID entered** → You join a default public room shared with everyone
-- **Custom Room ID entered** → Only people who enter the same Room ID will be in your room
-- **Share your Room ID** with friends to invite them into your private session
+| Scenario | Result |
+|----------|--------|
+| No Room ID entered | You join the default public room |
+| Custom Room ID entered | Only people with the same ID join your room |
+| Share your Room ID | Anyone with the code can join your private room |
 
 ---
 
