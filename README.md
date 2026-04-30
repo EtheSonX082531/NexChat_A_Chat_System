@@ -29,7 +29,7 @@
 ### 2. Private 1v1 Chat (Desktop)
 > Two users chatting in a private room. The sidebar shows online members with real-time presence indicators.
 
-![1v1 Private Chat](YOUR_PATH_TO/Chatting_1_v_1_in_privately.png)
+![1v1 Private Chat](Screen Shorts/Chatting 1 v 1 in privately.png)
 
 ---
 
