@@ -62,30 +62,35 @@ http://localhost:3000
 
 ### 🚪 Join Dashboard
 ![Join Dashboard](Screen%20Shorts/join%20dashboard.png)
+
 *The sleek landing page where users choose a nickname and a room code. If the room doesn't exist, it is dynamically generated.*
 
-<br>
+---
 
 ### 👥 1-on-1 Private Conversations
 ![Private Chat](Screen%20Shorts/Chatting%201%20v%201%20in%20privately.png)
+
 *A distraction-free, real-time private conversation space between two users sharing a secret room code.*
 
-<br>
+---
 
 ### 🌍 Shared Group Chat
 ![Group Chat](Screen%20Shorts/Multiple%20people%20chatting%20in%20a%20private%20room%20and%20also%20the%20room%20can%20be%20used%20as%20public%20by%20sharing%20room%20code..png)
+
 *Scale up your conversations! Share the room code to invite multiple participants for group collaboration or public forums.*
 
-<br>
+---
 
 ### 📱 Tablet Experience (iPad)
 ![Tablet View](Screen%20Shorts/Chatting%20using%20Ipad.png)
+
 *An adaptive, spacious layout optimized for iPad and tablet users, offering a highly comfortable viewing and typing experience.*
 
-<br>
+---
 
 ### 📲 Mobile Experience (Android / iOS)
 ![Mobile View](Screen%20Shorts/Chatting%20using%20android%20phone.png)
+
 *A tailored, native-feeling mobile interface with accessible inputs and smooth scrolling, perfect for chatting on the go.*
 
 ---
