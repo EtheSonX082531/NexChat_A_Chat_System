@@ -21,7 +21,7 @@
 ### 1. Join the Room — Dashboard
 > Enter your first name, last name, and an optional Room ID to join a specific private room. No account or password needed.
 
-![Join Dashboard](join_dashboard.png)
+![Join Dashboard](join dashboard.png)
 
 ---
 
