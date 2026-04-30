@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💬 NexChat - A Real-Time Chat System</h1>
+  <h1> NexChat - A Real-Time Chat System</h1>
   <p><i>A sleek, responsive, and seamless real-time communication platform built for the modern web.</i></p>
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
